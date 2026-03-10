@@ -57,7 +57,14 @@ The models were evaluated using:
 * F1 Score
 * Accuracy
 * Confusion Matrix
+  
+## Project Output
 
+### Accuracy Comparison
+![Accuracy](accuracy_comparison.png)
+
+### Correlation Heatmap
+![Heatmap](heatmap.png)
 ## Author
 
 Sonia Thakur
