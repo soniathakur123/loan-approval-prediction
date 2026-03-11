@@ -167,9 +167,7 @@ loan-approval-prediction/
     <p style="color: #666; font-size: 0.95em;">
       <em>Distribution of approved and rejected loan applications in the dataset</em>
     </p>
-    <p style="color: #999; font-size: 0.85em;">
-      <strong>Placeholder:</strong> Replace with your actual loan status distribution chart
-    </p>
+    <img src="loan_status.png" alt="Correlation Heatmap" width="500" style="border-radius: 5px; margin-top: 10px;">
   </div>
 </div>
 
